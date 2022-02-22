@@ -1,6 +1,5 @@
-<p align="center">
-  <img alig src="https://github.com/MarcoCasanova00/MarcoCasanova00/blob/main/banner.gif" />
-</p>
+<img src="https://github.com/MarcoCasanova00/MarcoCasanova00/blob/main/banner.gif" />
+
 
 
 ### Hi there，I'm Marco!
